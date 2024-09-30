@@ -1,7 +1,7 @@
 "# Tarefa de Engenharia" 
 "# tarega-engenharia-git" 
 <<<<<<< HEAD
-"Altera‡Æo na branch main" 
+"AlteraÃ§Ã£o na branch main" 
 =======
-"Altera‡Æo na branch desenvolvimento" 
+"AlteraÃ§Ã£o na branch desenvolvimento" 
 >>>>>>> desenvolvimento
